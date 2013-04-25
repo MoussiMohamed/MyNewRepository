@@ -1,0 +1,4 @@
+MyNewRepository
+===============
+
+the first apps
